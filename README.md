@@ -49,4 +49,4 @@ schedule.every().day.at("16:35").do(dailytask)
 
 ---
 
-Let me know if you want this integrated into a full `README.md`, or if you'd like me to help you deploy this to GitHub professionally.
+
