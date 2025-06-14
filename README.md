@@ -46,7 +46,9 @@ This scraper is scheduled to **run daily at a specific time** using the `schedul
 ```python
 schedule.every().day.at("16:35").do(dailytask)
 ```
-
 ---
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE) © 2025 Sarim Hussain.
 
 
